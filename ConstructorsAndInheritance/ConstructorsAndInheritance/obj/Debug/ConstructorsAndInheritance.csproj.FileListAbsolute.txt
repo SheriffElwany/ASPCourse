@@ -1,0 +1,7 @@
+D:\ITShare\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\ConstructorsAndInheritance.exe.config
+D:\ITShare\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\ConstructorsAndInheritance.exe
+D:\ITShare\ConstructorsAndInheritance\ConstructorsAndInheritance\bin\Debug\ConstructorsAndInheritance.pdb
+D:\ITShare\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.csprojAssemblyReference.cache
+D:\ITShare\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.csproj.CoreCompileInputs.cache
+D:\ITShare\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.exe
+D:\ITShare\ConstructorsAndInheritance\ConstructorsAndInheritance\obj\Debug\ConstructorsAndInheritance.pdb

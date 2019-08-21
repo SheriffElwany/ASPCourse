@@ -1,0 +1,14 @@
+D:\ITShare\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+D:\ITShare\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\ITShare\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\ITShare\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
+D:\ITShare\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\ITShare\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+D:\ITShare\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+F:\ITShare\ENGMohamedTayelCodes\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+F:\ITShare\ENGMohamedTayelCodes\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+F:\ITShare\ENGMohamedTayelCodes\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+F:\ITShare\ENGMohamedTayelCodes\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
+F:\ITShare\ENGMohamedTayelCodes\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+F:\ITShare\ENGMohamedTayelCodes\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+F:\ITShare\ENGMohamedTayelCodes\LambdaExpressions\before\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

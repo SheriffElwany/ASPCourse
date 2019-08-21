@@ -1,0 +1,7 @@
+D:\ITShare\DebuggingTools\DebuggingTools\bin\Debug\DebuggingTools.exe.config
+D:\ITShare\DebuggingTools\DebuggingTools\bin\Debug\DebuggingTools.exe
+D:\ITShare\DebuggingTools\DebuggingTools\bin\Debug\DebuggingTools.pdb
+D:\ITShare\DebuggingTools\DebuggingTools\obj\Debug\DebuggingTools.csprojAssemblyReference.cache
+D:\ITShare\DebuggingTools\DebuggingTools\obj\Debug\DebuggingTools.csproj.CoreCompileInputs.cache
+D:\ITShare\DebuggingTools\DebuggingTools\obj\Debug\DebuggingTools.exe
+D:\ITShare\DebuggingTools\DebuggingTools\obj\Debug\DebuggingTools.pdb

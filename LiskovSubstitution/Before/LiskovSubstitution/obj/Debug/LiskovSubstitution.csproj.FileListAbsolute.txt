@@ -1,0 +1,7 @@
+D:\ITShare\LiskovSubstitution\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe.config
+D:\ITShare\LiskovSubstitution\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe
+D:\ITShare\LiskovSubstitution\LiskovSubstitution\bin\Debug\LiskovSubstitution.pdb
+D:\ITShare\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.csprojAssemblyReference.cache
+D:\ITShare\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.csproj.CoreCompileInputs.cache
+D:\ITShare\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.exe
+D:\ITShare\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.pdb

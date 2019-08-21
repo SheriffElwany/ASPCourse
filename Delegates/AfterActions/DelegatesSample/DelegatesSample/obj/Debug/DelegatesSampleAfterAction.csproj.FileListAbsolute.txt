@@ -1,0 +1,7 @@
+F:\ITShare\ENGMohamedTayelCodes\Delegates\AfterActions\DelegatesSample\DelegatesSample\bin\Debug\DelegatesSample.exe.config
+F:\ITShare\ENGMohamedTayelCodes\Delegates\AfterActions\DelegatesSample\DelegatesSample\bin\Debug\DelegatesSample.exe
+F:\ITShare\ENGMohamedTayelCodes\Delegates\AfterActions\DelegatesSample\DelegatesSample\bin\Debug\DelegatesSample.pdb
+F:\ITShare\ENGMohamedTayelCodes\Delegates\AfterActions\DelegatesSample\DelegatesSample\obj\Debug\DelegatesSampleAfterAction.csprojAssemblyReference.cache
+F:\ITShare\ENGMohamedTayelCodes\Delegates\AfterActions\DelegatesSample\DelegatesSample\obj\Debug\DelegatesSampleAfterAction.csproj.CoreCompileInputs.cache
+F:\ITShare\ENGMohamedTayelCodes\Delegates\AfterActions\DelegatesSample\DelegatesSample\obj\Debug\DelegatesSample.exe
+F:\ITShare\ENGMohamedTayelCodes\Delegates\AfterActions\DelegatesSample\DelegatesSample\obj\Debug\DelegatesSample.pdb

@@ -1,0 +1,7 @@
+F:\ITShare\ENGMohamedTayelCodes\DependencyInversion\Before\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe.config
+F:\ITShare\ENGMohamedTayelCodes\DependencyInversion\Before\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe
+F:\ITShare\ENGMohamedTayelCodes\DependencyInversion\Before\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.pdb
+F:\ITShare\ENGMohamedTayelCodes\DependencyInversion\Before\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversionBefor.csprojAssemblyReference.cache
+F:\ITShare\ENGMohamedTayelCodes\DependencyInversion\Before\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversionBefor.csproj.CoreCompileInputs.cache
+F:\ITShare\ENGMohamedTayelCodes\DependencyInversion\Before\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.exe
+F:\ITShare\ENGMohamedTayelCodes\DependencyInversion\Before\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.pdb

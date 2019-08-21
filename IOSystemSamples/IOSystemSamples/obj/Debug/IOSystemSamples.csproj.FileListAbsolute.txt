@@ -1,0 +1,7 @@
+D:\ITShare\IOSystemSamples\IOSystemSamples\bin\Debug\IOSystemSamples.exe.config
+D:\ITShare\IOSystemSamples\IOSystemSamples\bin\Debug\IOSystemSamples.exe
+D:\ITShare\IOSystemSamples\IOSystemSamples\bin\Debug\IOSystemSamples.pdb
+D:\ITShare\IOSystemSamples\IOSystemSamples\obj\Debug\IOSystemSamples.csprojAssemblyReference.cache
+D:\ITShare\IOSystemSamples\IOSystemSamples\obj\Debug\IOSystemSamples.csproj.CoreCompileInputs.cache
+D:\ITShare\IOSystemSamples\IOSystemSamples\obj\Debug\IOSystemSamples.exe
+D:\ITShare\IOSystemSamples\IOSystemSamples\obj\Debug\IOSystemSamples.pdb

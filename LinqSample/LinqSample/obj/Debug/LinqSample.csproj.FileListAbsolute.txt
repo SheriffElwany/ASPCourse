@@ -1,0 +1,14 @@
+D:\ITShare\LinqSample\LinqSample\bin\Debug\LinqSample.exe.config
+D:\ITShare\LinqSample\LinqSample\bin\Debug\LinqSample.exe
+D:\ITShare\LinqSample\LinqSample\bin\Debug\LinqSample.pdb
+D:\ITShare\LinqSample\LinqSample\obj\Debug\LinqSample.csprojAssemblyReference.cache
+D:\ITShare\LinqSample\LinqSample\obj\Debug\LinqSample.csproj.CoreCompileInputs.cache
+D:\ITShare\LinqSample\LinqSample\obj\Debug\LinqSample.exe
+D:\ITShare\LinqSample\LinqSample\obj\Debug\LinqSample.pdb
+F:\ITShare\ENGMohamedTayelCodes\LinqSample\LinqSample\bin\Debug\LinqSample.exe.config
+F:\ITShare\ENGMohamedTayelCodes\LinqSample\LinqSample\bin\Debug\LinqSample.exe
+F:\ITShare\ENGMohamedTayelCodes\LinqSample\LinqSample\bin\Debug\LinqSample.pdb
+F:\ITShare\ENGMohamedTayelCodes\LinqSample\LinqSample\obj\Debug\LinqSample.csprojAssemblyReference.cache
+F:\ITShare\ENGMohamedTayelCodes\LinqSample\LinqSample\obj\Debug\LinqSample.csproj.CoreCompileInputs.cache
+F:\ITShare\ENGMohamedTayelCodes\LinqSample\LinqSample\obj\Debug\LinqSample.exe
+F:\ITShare\ENGMohamedTayelCodes\LinqSample\LinqSample\obj\Debug\LinqSample.pdb

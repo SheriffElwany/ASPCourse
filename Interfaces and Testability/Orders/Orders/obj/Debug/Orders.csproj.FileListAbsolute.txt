@@ -1,0 +1,14 @@
+D:\ITShare\Interfaces and Testability\Orders\Orders\obj\Debug\Orders.csprojAssemblyReference.cache
+D:\ITShare\Interfaces and Testability\Orders\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\Orders.exe.config
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\Orders.exe
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\Orders.pdb
+D:\ITShare\Interfaces and Testability\Orders\Orders\obj\Debug\Orders.exe
+D:\ITShare\Interfaces and Testability\Orders\Orders\obj\Debug\Orders.pdb
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\Unity.Abstractions.dll
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\Unity.Container.dll
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\Unity.Abstractions.pdb
+D:\ITShare\Interfaces and Testability\Orders\Orders\bin\Debug\Unity.Container.pdb
+D:\ITShare\Interfaces and Testability\Orders\Orders\obj\Debug\Orders.csproj.CopyComplete

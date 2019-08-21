@@ -1,0 +1,61 @@
+  public class Order
+    {
+        public bool IsShipped { get; internal set; }
+        public Shipment Shipment { get; set; }
+        public float TotalPrice { get;  set; }
+        public DateTime DatePlaced { get;  set; }
+    }
+	
+	
+	 public class Shipment
+    {
+        public Shipment()
+        {
+        }
+
+        public float Cost { get;  set; }
+        public DateTime ShippingDate { get;  set; }
+    }
+	
+	
+	 public class ShippingCalcutor
+    {
+
+        public float  CalculateShipping(Order order)
+        {
+            if (order.TotalPrice < 30f)
+                return order.TotalPrice * 0.1f;
+            return 0;
+        }
+    }
+	
+	public class OrderProcessor
+    {
+        private readonly ShippingCalcutor _shippingCalcutor;
+        public OrderProcessor()
+        {
+            _shippingCalcutor = new ShippingCalcutor();
+        }
+
+        public void Process(Order order)
+        {
+            if (order.IsShipped)
+                throw new InvalidOperationException("The Order Is alerady processed");
+            order.Shipment = new Shipment
+            {
+                Cost = _shippingCalcutor.CalculateShipping(order),
+                ShippingDate = DateTime.Today.AddDays(1)
+            };
+        }
+    }
+	
+	
+	 public class Program
+    {
+        static void Main(string[] args)
+        {
+            var orderProcessor = new OrderProcessor();
+            var order = new Order { DatePlaced = DateTime.Today, TotalPrice = 100f };
+            orderProcessor.Process(order);
+        }
+    }

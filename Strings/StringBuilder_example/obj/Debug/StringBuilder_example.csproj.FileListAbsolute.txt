@@ -1,0 +1,6 @@
+D:\ITShare\Strings\StringBuilder_example\bin\Debug\StringBuilder_example.exe.config
+D:\ITShare\Strings\StringBuilder_example\bin\Debug\StringBuilder_example.exe
+D:\ITShare\Strings\StringBuilder_example\bin\Debug\StringBuilder_example.pdb
+D:\ITShare\Strings\StringBuilder_example\obj\Debug\StringBuilder_example.csproj.CoreCompileInputs.cache
+D:\ITShare\Strings\StringBuilder_example\obj\Debug\StringBuilder_example.exe
+D:\ITShare\Strings\StringBuilder_example\obj\Debug\StringBuilder_example.pdb

@@ -1,0 +1,60 @@
+ public class Cricle : Shap
+    {
+		 public override void Draw()
+        {
+               Console.WriteLine("Draw Cricle");
+        }
+    }
+
+    public class Rectangle:Shap
+    {
+      public override void Draw()
+        {
+               Console.WriteLine("Draw Rectangle");
+        }
+    }
+	
+	 public  class Shap
+    {
+        public int Width { get; set; }
+        public int Hight { get; set; }
+        public Position Position { get; set; }
+        
+        //public ShapType Type { get; set; }
+
+        public virtual void Draw()
+        {
+Console.WriteLine("Draw Sahp");
+        }
+    }
+	
+	public class Canvas
+    {
+        public void DrawShaps(List<Shap> shapes)
+        {
+            foreach (var shap in shapes)
+            {
+                shap.Draw();
+            }
+        }
+    }
+	
+	class Program
+    {
+        static void Main(string[] args)
+        {
+            var shapes = new List<Shap>();
+            shapes.Add(new Cricle { Hight = 100, Width = 200,  Position=new Position{ X = 100, Y = 200 } });
+            shapes.Add(new Rectangle { Hight = 100, Width = 200,  Position=new Position{ X = 100, Y = 200 } });
+
+            var canvas = new Canvas();
+            canvas.DrawShaps(shapes);
+
+        }
+    }
+	
+	
+	public class Tringale:Shap
+    {
+
+    }

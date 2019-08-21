@@ -1,0 +1,7 @@
+F:\ITShare\ENGMohamedTayelCodes\InterfaceSegregation\After\InterfaceSegregation\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe.config
+F:\ITShare\ENGMohamedTayelCodes\InterfaceSegregation\After\InterfaceSegregation\InterfaceSegregation\bin\Debug\InterfaceSegregation.exe
+F:\ITShare\ENGMohamedTayelCodes\InterfaceSegregation\After\InterfaceSegregation\InterfaceSegregation\bin\Debug\InterfaceSegregation.pdb
+F:\ITShare\ENGMohamedTayelCodes\InterfaceSegregation\After\InterfaceSegregation\InterfaceSegregation\obj\Debug\InterfaceSegregationAfter.csprojAssemblyReference.cache
+F:\ITShare\ENGMohamedTayelCodes\InterfaceSegregation\After\InterfaceSegregation\InterfaceSegregation\obj\Debug\InterfaceSegregationAfter.csproj.CoreCompileInputs.cache
+F:\ITShare\ENGMohamedTayelCodes\InterfaceSegregation\After\InterfaceSegregation\InterfaceSegregation\obj\Debug\InterfaceSegregation.exe
+F:\ITShare\ENGMohamedTayelCodes\InterfaceSegregation\After\InterfaceSegregation\InterfaceSegregation\obj\Debug\InterfaceSegregation.pdb

@@ -1,0 +1,40 @@
+public  class Shap
+    {
+        public int Width { get; set; }
+        public int Hight { get; set; }
+        public Position Position { get; set; }
+        
+        public ShapType Type { get; set; }
+    }
+	
+	public class Position
+    {
+        public int X { get; set; }
+        public int Y { get; set; }
+    }
+	
+	public enum ShapType
+    {
+        Cricle,
+        Rectangle
+    }
+	
+	public class Canvas
+    {
+        public void DrawShaps(List<Shap> shapes)
+        {
+            foreach (var shap in shapes)
+            {
+                switch (shap.Type)
+                {
+                    case ShapType.Cricle:
+                        Console.WriteLine("Draw Cricle");
+                        break;
+                    case ShapType.Rectangle:
+                        Console.WriteLine("Draw Rectangle");
+                        break;
+
+                }
+            }
+        }
+    }

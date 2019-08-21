@@ -1,0 +1,14 @@
+D:\ITShare\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
+D:\ITShare\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+D:\ITShare\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+D:\ITShare\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+D:\ITShare\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+D:\ITShare\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+D:\ITShare\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
+F:\ITShare\ENGMohamedTayelCodes\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+F:\ITShare\ENGMohamedTayelCodes\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+F:\ITShare\ENGMohamedTayelCodes\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+F:\ITShare\ENGMohamedTayelCodes\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
+F:\ITShare\ENGMohamedTayelCodes\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+F:\ITShare\ENGMohamedTayelCodes\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+F:\ITShare\ENGMohamedTayelCodes\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
